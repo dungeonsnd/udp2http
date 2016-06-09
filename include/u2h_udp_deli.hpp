@@ -1,0 +1,6 @@
+#ifndef _HEADER_FILE_UDP_DELI_HPP_
+#define _HEADER_FILE_UDP_DELI_HPP_
+
+#define DELI "$|"
+
+#endif // _HEADER_FILE_UDP_DELI_HPP_
